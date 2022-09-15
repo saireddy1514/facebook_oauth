@@ -5,7 +5,7 @@ opts=
 {
     clientID: 1730412367304237,
     clientSecret: '3e5ca655807bcb4a09af5c3966f3fd50',
-    callbackURL: "https://127.0.0.1:4000/auth/facebook/secrets",
+    callbackURL: "https://cryptic-plains-60700.herokuapp.com/auth/facebook/secrets",
     profileFields: ['id', 'displayName', 'photos', 'email']
     // ,'user_mobile_phone'
 }
